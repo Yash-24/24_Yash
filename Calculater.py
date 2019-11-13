@@ -29,8 +29,8 @@ print(" ")
 
 #Getting input from user
 op = input()
-x = int(input())
-y = int(input())
+x = int(input("Enter Your First Number:-"))
+y = int(input("Enter Your First Number:-))
 
 
 #Logic in this program
