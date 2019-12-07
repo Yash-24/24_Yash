@@ -1,3 +1,5 @@
+#This Game WAs Made By Yash Vaghasiya
+
 import pygame
 import sys
 import random
